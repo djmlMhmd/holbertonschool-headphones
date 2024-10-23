@@ -3,9 +3,9 @@
 ![HTML](https://img.shields.io/badge/HTML-5-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-#### In this project, i will implement from scratch, without any library, a web page. i will use all HTML/CSS/Accessibility/Responsive design knowledges that i learned previously.
+## In this project, I will build a web page entirely from scratch, without using any libraries. I will apply all the HTML, CSS, Accessibility, and Responsive Design skills I have previously learned.
 
-#### i won’t have a lot of instruction, i'm free to implement it the way that i want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
+## I have minimal instructions, giving me the freedom to implement it as I see fit. The goal is simple: to create a fully functional web page that exactly matches the designer’s file.
 
 ## Interactions note:
 
